@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: a69d68a5dc6ed1d4a870357f4e18276b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4289688231725236297
+    second: LeftAttack_0
+  - first:
+      213: 4831111800972585866
+    second: LeftAttack_1
+  - first:
+      213: 1864106301045289674
+    second: LeftAttack_2
+  - first:
+      213: -6081324118064990148
+    second: LeftAttack_3
+  - first:
+      213: -8723022838779066604
+    second: LeftAttack_4
+  - first:
+      213: 7649449808021538224
+    second: LeftAttack_5
+  - first:
+      213: -4050484997145990244
+    second: LeftAttack_6
+  - first:
+      213: -2917815913126940199
+    second: LeftAttack_7
+  - first:
+      213: -1289043043501889386
+    second: LeftAttack_8
+  - first:
+      213: 2158827623474108871
+    second: LeftAttack_9
+  - first:
+      213: -2022958174888156918
+    second: LeftAttack_10
+  - first:
+      213: -1353066762200255280
+    second: LeftAttack_11
+  - first:
+      213: -4738326364455125757
+    second: LeftAttack_12
+  - first:
+      213: -2690482806588943416
+    second: LeftAttack_13
+  - first:
+      213: -9010363262072715756
+    second: LeftAttack_14
+  - first:
+      213: -5023198405149540309
+    second: LeftAttack_15
+  - first:
+      213: -7636694073955219063
+    second: LeftAttack_16
+  - first:
+      213: -3012033965870196711
+    second: LeftAttack_17
+  - first:
+      213: -704003143932466648
+    second: LeftAttack_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LeftAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940082118b8088b30800000000000000
+      internalID: 4289688231725236297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1212
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b2b2f269e8b0340800000000000000
+      internalID: 4831111800972585866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1212
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac23f59edc2aed910800000000000000
+      internalID: 1864106301045289674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1212
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3878b25febca9ba0800000000000000
+      internalID: -6081324118064990148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1212
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41744f6d1f891f680800000000000000
+      internalID: -8723022838779066604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5cd46621e482a60800000000000000
+      internalID: 7649449808021538224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 808
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b60110b59c9c7c0800000000000000
+      internalID: -4050484997145990244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_7
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 808
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d13612e2e5d187d0800000000000000
+      internalID: -2917815913126940199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 808
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698a1eb7e266c1ee0800000000000000
+      internalID: -1289043043501889386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 808
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9997c1942b5fd10800000000000000
+      internalID: 2158827623474108871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01a15e02420de3e0800000000000000
+      internalID: -2022958174888156918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 404
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d47aa9d2f0f83de0800000000000000
+      internalID: -1353066762200255280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_12
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 404
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30db8c8b6451e3eb0800000000000000
+      internalID: -4738326364455125757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 404
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c358f6642c79aad0800000000000000
+      internalID: -2690482806588943416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_14
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 404
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4160de22a52c4f280800000000000000
+      internalID: -9010363262072715756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20c0c02aa30a4ab0800000000000000
+      internalID: -5023198405149540309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_16
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989819f5333050690800000000000000
+      internalID: -7636694073955219063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_17
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91855e4011b1336d0800000000000000
+      internalID: -3012033965870196711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack_18
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 0
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5268295, y: 0.02034435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aa52dded0ea36f0800000000000000
+      internalID: -704003143932466648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

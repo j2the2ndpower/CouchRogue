@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7994627964495321085
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 340184654813075623}
+  - component: {fileID: 6798956919790833986}
+  - component: {fileID: -8855009675393913790}
+  - component: {fileID: 6357361910054555892}
+  m_Layer: 0
+  m_Name: Stunned
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &340184654813075623
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7994627964495321085}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.14009932, y: 1.2257482, z: -2.0662541}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6798956919790833986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7994627964495321085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4acb274d7ac6ccf4982271d3d467985a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: Stunned
+  icon: {fileID: 6592680923324011761, guid: 3f611a566db99dc44ba521daf56b1d6b, type: 3}
+  frequency: 1
+  duration: 1
+  permanent: 0
+  canStack: 0
+  magnitude: 1
+  negative: 1
+  diminishing: 0
+  tickType: 1
+  ticksRemaining: 0
+  source: {fileID: 0}
+  instructions: []
+  stack: {fileID: 0}
+--- !u!114 &-8855009675393913790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7994627964495321085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0910cb154f5e949b93eda03b0134d7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  owner: {fileID: 0}
+  statusEffect: {fileID: 0}
+  statusEvent: 1
+  attribute: 4
+  operation: 0
+  floatValue: 0
+  intValue: 1
+  boolValue: 0
+  listenAttribute: 0
+--- !u!114 &6357361910054555892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7994627964495321085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0910cb154f5e949b93eda03b0134d7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  owner: {fileID: 0}
+  statusEffect: {fileID: 0}
+  statusEvent: 3
+  attribute: 4
+  operation: 0
+  floatValue: 0
+  intValue: -1
+  boolValue: 0
+  listenAttribute: 0

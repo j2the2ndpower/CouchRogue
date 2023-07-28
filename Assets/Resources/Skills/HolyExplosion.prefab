@@ -1,0 +1,849 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &642442580575269137
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1113822710192862600}
+  - component: {fileID: 6642754459335860689}
+  - component: {fileID: 3517623561348708392}
+  m_Layer: 0
+  m_Name: Decay
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1113822710192862600
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 642442580575269137}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6642754459335860689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 642442580575269137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Enemies hit by this spell will receive a DOT effect dealing 5 damage
+    for 3 rounds
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 4
+--- !u!114 &3517623561348708392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 642442580575269137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b05259938f49ff4a9d872bd4684e79b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  applyToAlignment: 66
+  action: 0
+  effectType: 0
+  statusPrefab: {fileID: 7994627964495321085, guid: 2446e5ba65fae5341b834dfd9f96ef97,
+    type: 3}
+  overrideMagnitude: 0
+  magnitudeOverride: 0
+  overrideDuration: 0
+  durationOverride: 0
+  radius: 0
+  RandomStatusEffect: 0
+--- !u!1 &1320806414200001844
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6960502827672192486}
+  - component: {fileID: 3780235547460804860}
+  - component: {fileID: 5245147812009986606}
+  m_Layer: 0
+  m_Name: Cosmos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6960502827672192486
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1320806414200001844}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3780235547460804860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1320806414200001844}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Spell fires an additional time
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 3
+--- !u!114 &5245147812009986606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1320806414200001844}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbdea03b50bd4534ca2f650782934923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  attribute: 4
+  operation: 0
+  intValue: 1
+  floatValue: 0
+  targetTypeValue: 0
+  keywordValue: 4
+  costTypeValue: 0
+--- !u!1 &3897641240859546051
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3139179464876727825}
+  - component: {fileID: 6166947544968475622}
+  - component: {fileID: 2919940495637291821}
+  - component: {fileID: 2500319266444136091}
+  m_Layer: 0
+  m_Name: Ages
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3139179464876727825
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3897641240859546051}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6166947544968475622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3897641240859546051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Revives any dead allies with 20% health in the radius
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 1
+--- !u!114 &2919940495637291821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3897641240859546051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7784d6fbabdc74c82192f6bc3ab384, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  targetAlignment: 73
+  resource: 1
+  percent: 20
+--- !u!114 &2500319266444136091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3897641240859546051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e6dd1b96ad24647991f495bc028f35, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  targetAlignment: 201
+  attribute: 5
+  operation: 0
+  floatValue: 0
+  intValue: 0
+  boolValue: 0
+--- !u!1 &4699261121832812044
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1389226248729656313}
+  - component: {fileID: 6118783251346721277}
+  - component: {fileID: 4956478316116910096}
+  m_Layer: 0
+  m_Name: Elements
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1389226248729656313
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4699261121832812044}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6118783251346721277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4699261121832812044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Remove up to 1 negative status effect from targets affected by spell
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 5
+--- !u!114 &4956478316116910096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4699261121832812044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b05259938f49ff4a9d872bd4684e79b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  applyToAlignment: 65
+  action: 1
+  effectType: 1
+  statusPrefab: {fileID: 0}
+  overrideMagnitude: 0
+  magnitudeOverride: 0
+  overrideDuration: 0
+  durationOverride: 0
+  radius: 0
+  RandomStatusEffect: 1
+--- !u!1 &5634067014328297310
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4895512362540861119}
+  - component: {fileID: 3307638898611824824}
+  - component: {fileID: 5749779213096331901}
+  m_Layer: 0
+  m_Name: Instability
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4895512362540861119
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5634067014328297310}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3307638898611824824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5634067014328297310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Add 1 random status effect to all targets affected by spell
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 8
+--- !u!114 &5749779213096331901
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5634067014328297310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b05259938f49ff4a9d872bd4684e79b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  applyToAlignment: 64
+  action: 0
+  effectType: 2
+  statusPrefab: {fileID: 0}
+  overrideMagnitude: 0
+  magnitudeOverride: 0
+  overrideDuration: 0
+  durationOverride: 0
+  radius: 0
+  RandomStatusEffect: 1
+--- !u!1 &7216403239254114800
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5263846002786070217}
+  - component: {fileID: 7533269303992051939}
+  - component: {fileID: 2466038522605469637}
+  m_Layer: 0
+  m_Name: HolyExplosion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5263846002786070217
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7216403239254114800}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.87, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3139179464876727825}
+  - {fileID: 2416091359679051423}
+  - {fileID: 6960502827672192486}
+  - {fileID: 1113822710192862600}
+  - {fileID: 1389226248729656313}
+  - {fileID: 2376943048452248216}
+  - {fileID: 5428471648562759670}
+  - {fileID: 4895512362540861119}
+  - {fileID: 5444255856807759994}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7533269303992051939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7216403239254114800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23782b0682cf8d44dbd5c8aa3f42ebeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: Holy Explosion
+  description: Heal ALL units in a 1 block radius for 5 health
+  icon: {fileID: -1289143293111609116, guid: 3f611a566db99dc44ba521daf56b1d6b, type: 3}
+  costs: 05000000
+  costTypes: 02000000
+  type: 3
+  degrees: 0
+  radius: 1
+  pathRadius: 0
+  range: 0
+  modifiers: 2
+  skillEffectiveness: 0
+  increasedCritChance: 0
+  runeCapacity: 3
+  runes: 000000000000000000000000
+  runeEffects:
+  - {fileID: 0}
+  - {fileID: 6166947544968475622}
+  - {fileID: 3885302208761002012}
+  - {fileID: 3780235547460804860}
+  - {fileID: 6642754459335860689}
+  - {fileID: 6118783251346721277}
+  - {fileID: 3623877155643178896}
+  - {fileID: 928684563502292226}
+  - {fileID: 3307638898611824824}
+  - {fileID: 2470760942275560033}
+  caster: {fileID: 0}
+  menuItem: {fileID: 0}
+  displayOnly: 0
+  effect: {fileID: 962280097899981083, guid: aa6c4d1361b22c64eaedd1bf3f90b619, type: 3}
+  hideEffect: 0
+  AIUseInStates: 
+  keywords: 
+  instructions: []
+  duration: 1.57
+  slot: 0
+--- !u!114 &2466038522605469637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7216403239254114800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62961614cf9b41542af47592ee6c7b71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  amount: 5
+--- !u!1 &7306586394524641531
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2376943048452248216}
+  - component: {fileID: 3623877155643178896}
+  - component: {fileID: 4989365150803026786}
+  - component: {fileID: 1333630952222599106}
+  m_Layer: 0
+  m_Name: Gluttony
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2376943048452248216
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7306586394524641531}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3623877155643178896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7306586394524641531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Doubles the area and range of the spell
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 6
+--- !u!114 &4989365150803026786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7306586394524641531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbdea03b50bd4534ca2f650782934923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  attribute: 1
+  operation: 1
+  intValue: 0
+  floatValue: 2
+  targetTypeValue: 0
+  keywordValue: 0
+  costTypeValue: 0
+--- !u!114 &1333630952222599106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7306586394524641531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbdea03b50bd4534ca2f650782934923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  attribute: 2
+  operation: 1
+  intValue: 0
+  floatValue: 2
+  targetTypeValue: 0
+  keywordValue: 0
+  costTypeValue: 0
+--- !u!1 &7581616563319248441
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2416091359679051423}
+  - component: {fileID: 3885302208761002012}
+  - component: {fileID: 6414194271981572421}
+  m_Layer: 0
+  m_Name: Brutality
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2416091359679051423
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7581616563319248441}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3885302208761002012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7581616563319248441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Deals damage to enemies within the radius equal to 1x its healing
+    effect
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 2
+--- !u!114 &6414194271981572421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7581616563319248441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbdea03b50bd4534ca2f650782934923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  attribute: 4
+  operation: 0
+  intValue: 1
+  floatValue: 0
+  targetTypeValue: 0
+  keywordValue: 2
+  costTypeValue: 0
+--- !u!1 &8012994118386008222
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5428471648562759670}
+  - component: {fileID: 928684563502292226}
+  - component: {fileID: 8435526548745783957}
+  - component: {fileID: 5852193726744096022}
+  m_Layer: 0
+  m_Name: Growth
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5428471648562759670
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8012994118386008222}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &928684563502292226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8012994118386008222}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Increases healing by 5 and gives 5% crit chance
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 7
+--- !u!114 &8435526548745783957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8012994118386008222}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbdea03b50bd4534ca2f650782934923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  attribute: 5
+  operation: 0
+  intValue: 5
+  floatValue: 0
+  targetTypeValue: 0
+  keywordValue: 0
+  costTypeValue: 0
+--- !u!114 &5852193726744096022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8012994118386008222}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbdea03b50bd4534ca2f650782934923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  attribute: 6
+  operation: 0
+  intValue: 0
+  floatValue: 5
+  targetTypeValue: 0
+  keywordValue: 0
+  costTypeValue: 0
+--- !u!1 &8998387478079454561
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5444255856807759994}
+  - component: {fileID: 2470760942275560033}
+  - component: {fileID: 7593536426754116443}
+  - component: {fileID: 1558078740514815568}
+  m_Layer: 0
+  m_Name: Nomicon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5444255856807759994
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8998387478079454561}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2470760942275560033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8998387478079454561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: You are now the epicenter of the Holy 'Splosion, it's base range is
+    now 10x10 or 5 radius, and stuns all enemies hit
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 9
+--- !u!114 &7593536426754116443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8998387478079454561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbdea03b50bd4534ca2f650782934923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  attribute: 1
+  operation: 0
+  intValue: 0
+  floatValue: 4
+  targetTypeValue: 0
+  keywordValue: 0
+  costTypeValue: 0
+--- !u!114 &1558078740514815568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8998387478079454561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b05259938f49ff4a9d872bd4684e79b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  applyToAlignment: 66
+  action: 0
+  effectType: 0
+  statusPrefab: {fileID: 7994627964495321085, guid: 8cfb9c9b539f3cf4d8f2eadd243e274c,
+    type: 3}
+  overrideMagnitude: 0
+  magnitudeOverride: 0
+  overrideDuration: 0
+  durationOverride: 0
+  radius: 0
+  RandomStatusEffect: 0

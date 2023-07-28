@@ -1,0 +1,713 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1006326472396539083
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1182979198776577791}
+  - component: {fileID: 8288458878627816728}
+  m_Layer: 0
+  m_Name: Decay
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1182979198776577791
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1006326472396539083}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8288458878627816728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1006326472396539083}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Casting Bone Rattle now places a Bone Pile near its caster.
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 4
+--- !u!1 &1100583556504407240
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6301139784525829705}
+  - component: {fileID: 8588427097305761875}
+  - component: {fileID: 6145837790239475750}
+  m_Layer: 0
+  m_Name: Ages
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6301139784525829705
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1100583556504407240}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8588427097305761875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1100583556504407240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Bone Rattle now grants the caster 2 Reflection.
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 1
+--- !u!114 &6145837790239475750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1100583556504407240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b05259938f49ff4a9d872bd4684e79b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  applyToAlignment: 16
+  action: 0
+  effectType: 0
+  statusPrefab: {fileID: 7994627964495321085, guid: 84ee99a5999e3d744a41fe7544da202a,
+    type: 3}
+  overrideMagnitude: 0
+  magnitudeOverride: 0
+  overrideDuration: 0
+  durationOverride: 0
+  radius: 0
+  RandomStatusEffect: 0
+--- !u!1 &1903338379561169187
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8965195648033337860}
+  - component: {fileID: 8964023151609608278}
+  m_Layer: 0
+  m_Name: Nomicon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8965195648033337860
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1903338379561169187}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8964023151609608278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1903338379561169187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Bone Rattle now has echo 1.
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 9
+--- !u!1 &2019084352161457388
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8333698791123260609}
+  - component: {fileID: 2833226992448439081}
+  - component: {fileID: 907218289913152711}
+  m_Layer: 0
+  m_Name: Elements
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8333698791123260609
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2019084352161457388}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2833226992448439081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2019084352161457388}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Bone Rattle now costs 5 less mana.
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 5
+--- !u!114 &907218289913152711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2019084352161457388}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbdea03b50bd4534ca2f650782934923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  attribute: 0
+  operation: 0
+  intValue: -5
+  floatValue: 0
+  targetTypeValue: 0
+  keywordValue: 0
+  costTypeValue: 2
+--- !u!1 &2076462150823579389
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7060566335541046182}
+  - component: {fileID: 7160342557371816686}
+  m_Layer: 0
+  m_Name: Instability
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7060566335541046182
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2076462150823579389}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7160342557371816686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2076462150823579389}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Bone Rattle now applies a random amount of Knockback from 1 to 3.
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 8
+--- !u!1 &2164035165383242821
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 892863677739810799}
+  - component: {fileID: 1712538192377449416}
+  - component: {fileID: 5769657990997411483}
+  m_Layer: 0
+  m_Name: Brutality
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &892863677739810799
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2164035165383242821}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1712538192377449416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2164035165383242821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Allies damaged by Bone Rattle are now inflicted with Rage 1 for 1
+    turn.
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 2
+--- !u!114 &5769657990997411483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2164035165383242821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b05259938f49ff4a9d872bd4684e79b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  applyToAlignment: 65
+  action: 0
+  effectType: 0
+  statusPrefab: {fileID: 7994627964495321085, guid: 8cf8cbd96bd992240af9878bbed2ed28,
+    type: 3}
+  overrideMagnitude: 0
+  magnitudeOverride: 0
+  overrideDuration: 0
+  durationOverride: 0
+  radius: 0
+  RandomStatusEffect: 0
+--- !u!1 &3633081364002385899
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2555408825718408297}
+  - component: {fileID: 6357208550187344101}
+  - component: {fileID: 2832456418607205131}
+  m_Layer: 0
+  m_Name: Growth
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2555408825718408297
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3633081364002385899}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6357208550187344101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3633081364002385899}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Bone Rattle now grants allies wihtin a radius of 1.5 a shield of 5.
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 7
+--- !u!114 &2832456418607205131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3633081364002385899}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b05259938f49ff4a9d872bd4684e79b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  applyToAlignment: 33
+  action: 0
+  effectType: 0
+  statusPrefab: {fileID: 7994627964495321085, guid: 59ee318149479f5409a9eb6cd4335db2,
+    type: 3}
+  overrideMagnitude: 1
+  magnitudeOverride: 5
+  overrideDuration: 0
+  durationOverride: 0
+  radius: 1.5
+  RandomStatusEffect: 0
+--- !u!1 &3748648103825465458
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1840083866222913088}
+  - component: {fileID: 7586153993236309367}
+  - component: {fileID: 6860327648415008172}
+  m_Layer: 0
+  m_Name: Cosmos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1840083866222913088
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3748648103825465458}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7586153993236309367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3748648103825465458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Bone Rattle gains 0.5 Radius.
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 3
+--- !u!114 &6860327648415008172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3748648103825465458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbdea03b50bd4534ca2f650782934923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  attribute: 1
+  operation: 0
+  intValue: 0
+  floatValue: 0.5
+  targetTypeValue: 0
+  keywordValue: 0
+  costTypeValue: 0
+--- !u!1 &4083514204230395310
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3341469791041162783}
+  - component: {fileID: 6200921291526111541}
+  - component: {fileID: 2268041150031147428}
+  - component: {fileID: 8472255648954150128}
+  m_Layer: 0
+  m_Name: Gluttony
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3341469791041162783
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4083514204230395310}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5263846002786070217}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6200921291526111541
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4083514204230395310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ebdb337b7b33d47bd4d4c57f460073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Bone Rattle now becomes a piercing linear projectile and gains 1 range.
+  instructions: []
+  skill: {fileID: 0}
+  player: {fileID: 0}
+  type: 6
+--- !u!114 &2268041150031147428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4083514204230395310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbdea03b50bd4534ca2f650782934923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  attribute: 2
+  operation: 0
+  intValue: 0
+  floatValue: 1
+  targetTypeValue: 0
+  keywordValue: 0
+  costTypeValue: 0
+--- !u!114 &8472255648954150128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4083514204230395310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbdea03b50bd4534ca2f650782934923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  runeEffect: {fileID: 0}
+  attribute: 3
+  operation: 0
+  intValue: 0
+  floatValue: 0
+  targetTypeValue: 2
+  keywordValue: 0
+  costTypeValue: 0
+--- !u!1 &7216403239254114800
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5263846002786070217}
+  - component: {fileID: 3646800690996909243}
+  - component: {fileID: 6676079612569013636}
+  m_Layer: 0
+  m_Name: SuperBoneRattle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5263846002786070217
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7216403239254114800}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6301139784525829705}
+  - {fileID: 892863677739810799}
+  - {fileID: 1840083866222913088}
+  - {fileID: 1182979198776577791}
+  - {fileID: 8333698791123260609}
+  - {fileID: 3341469791041162783}
+  - {fileID: 2555408825718408297}
+  - {fileID: 7060566335541046182}
+  - {fileID: 8965195648033337860}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3646800690996909243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7216403239254114800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23782b0682cf8d44dbd5c8aa3f42ebeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: Bone Rattle
+  description: '<#3366ff>15</color>: Deals <color=red>5</color> <color=yellow>direct</color>
+    damage in 1 radius with 0 range. Ignores Caster.'
+  icon: {fileID: -6739525477993420851, guid: 3f611a566db99dc44ba521daf56b1d6b, type: 3}
+  costs: 0f000000
+  costTypes: 02000000
+  type: 3
+  degrees: 0
+  radius: 1
+  pathRadius: 1
+  range: 0
+  modifiers: 4
+  skillEffectiveness: 0
+  increasedCritChance: 0
+  runeCapacity: 3
+  runes: 030000000300000003000000
+  runeEffects:
+  - {fileID: 0}
+  - {fileID: 8588427097305761875}
+  - {fileID: 1712538192377449416}
+  - {fileID: 7586153993236309367}
+  - {fileID: 8288458878627816728}
+  - {fileID: 2833226992448439081}
+  - {fileID: 6200921291526111541}
+  - {fileID: 6357208550187344101}
+  - {fileID: 7160342557371816686}
+  - {fileID: 8964023151609608278}
+  caster: {fileID: 0}
+  menuItem: {fileID: 0}
+  displayOnly: 0
+  effect: {fileID: 686454956365894699, guid: a952a7fbb1c405d44a9fec98776b0b42, type: 3}
+  hideEffect: 0
+  AIUseInStates: 02000000
+  keywords: 
+  instructions: []
+  duration: 1
+  slot: 0
+--- !u!114 &6676079612569013636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7216403239254114800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80d95753bed9a0c419b254aeab1c4165, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skill: {fileID: 0}
+  caster: {fileID: 0}
+  amount: 5

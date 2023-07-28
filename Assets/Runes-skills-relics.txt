@@ -1,0 +1,41 @@
+UNCOMMON
+Rune of the Elements		Blue	Elemental effects, Status effects, Synergies
+Rune of Decay				Purple	Auras, immolation, dots, debuffs, zombie summons, undeath in general
+Rune of Growth				Green		Auras, Buffs, hots, crit on heals etc.
+
+RARE
+Rune of Brutality			Red		Crit chance, Extra damage, Execution, Knockback, Power
+Rune of Gluttony			Yellow Vampirism, Time thief, more abundance, bigger, richer, fatter
+Rune of Instability			Orange	Wildcard, wagers/gambling, can have crazy eefffects
+
+EPIC
+Rune of the Ages			White		Double up, extra targets, time manipulation, crazy good stuff, rebirth
+Rune of the Cosmos			DarkBlue			Spacial Enhancements, bigger targetting, blinks, teleports
+
+LEGENDARY
+The Nomicon					OpenBlue		Ultimate version of the skill, only 1 per game
+
+
+
+Holy 'Splosion - 1 Range
+Heal all allies in a 1x1 area for 10 health
+
+Elements:	Remove up to 1 negative status effect from targets affected by spell				+ 1 effect per stack
+Decay:		Enemies hit by this spell will receive a DOT effect dealing 5 damage for 3 rounds   + 5 damage per stack
+Growth:		Increases healing by 5 and gives 5% crit chance										+ 5 healing and + 5% crit chance per stack
+
+Brutality:		Deals damage to enemies within the radius equal to 1x its healing effect		+ 1x multiplier per stack
+Gluttony:		Doubles the area and range of the spell										    Always doubles
+Instability:	Add 1 random status effect to all targets affected by spell						+ 1 status effect per stack
+
+AGES:	Revives any dead allies with 20% health in the radius									+ 20% per stack
+COSMOS:	Spell fires an additional time
+
+THE NOMICON:  You are now the epicenter of the Holy 'Splosion, it's base range is now 10x10 or 5 radius, and stuns all enemies hit
+
+
+SYNERGETIC RELICS
+1. Applying a status effect to an enemy also inflicts 5 damage
+2. Healing another ally also heals you for 1/2 the amount
+
+

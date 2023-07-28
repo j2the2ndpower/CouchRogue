@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: 7dadfb61dd7a8684587d077c310f8b61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1920470378393900289
+    second: RightCast_0
+  - first:
+      213: -4199066652376804479
+    second: RightCast_1
+  - first:
+      213: -7454585806712029810
+    second: RightCast_2
+  - first:
+      213: -8925828039427323804
+    second: RightCast_3
+  - first:
+      213: 139585960139356824
+    second: RightCast_4
+  - first:
+      213: -1139120342283183471
+    second: RightCast_5
+  - first:
+      213: 7400474604006143522
+    second: RightCast_6
+  - first:
+      213: 1006235723524546625
+    second: RightCast_7
+  - first:
+      213: -4647641733132440644
+    second: RightCast_8
+  - first:
+      213: 7100610407804441826
+    second: RightCast_9
+  - first:
+      213: -3199004072269048709
+    second: RightCast_10
+  - first:
+      213: -6427130396759926314
+    second: RightCast_11
+  - first:
+      213: -2418805997674103664
+    second: RightCast_12
+  - first:
+      213: 2023816454422202743
+    second: RightCast_13
+  - first:
+      213: -8916106952432670284
+    second: RightCast_14
+  - first:
+      213: -6845213000106611423
+    second: RightCast_15
+  - first:
+      213: 7127661567626449608
+    second: RightCast_16
+  - first:
+      213: 7891248666452460676
+    second: RightCast_17
+  - first:
+      213: -4570002140146672923
+    second: RightCast_18
+  - first:
+      213: 5772775902623998040
+    second: RightCast_19
+  - first:
+      213: 4982969991185976622
+    second: RightCast_20
+  - first:
+      213: -8378501956548596296
+    second: RightCast_21
+  - first:
+      213: 2543366872273955982
+    second: RightCast_22
+  - first:
+      213: -6669569684999686570
+    second: RightCast_23
+  - first:
+      213: -88101003898517476
+    second: RightCast_24
+  - first:
+      213: 769932058168128522
+    second: RightCast_25
+  - first:
+      213: 3880261905646711753
+    second: RightCast_26
+  - first:
+      213: -4342595638964934762
+    second: RightCast_27
+  - first:
+      213: -4745906729600241614
+    second: RightCast_28
+  - first:
+      213: 4624104622489305039
+    second: RightCast_29
+  - first:
+      213: -340737764711258341
+    second: RightCast_30
+  - first:
+      213: -7454925093877548907
+    second: RightCast_31
+  - first:
+      213: 4485360110473204693
+    second: RightCast_32
+  - first:
+      213: -7298413962507270891
+    second: RightCast_33
+  - first:
+      213: 4068023480288819770
+    second: RightCast_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RightCast_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1608
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaeb2ead5e1955e0800000000000000
+      internalID: -1920470378393900289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1608
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18354e4902be9b5c0800000000000000
+      internalID: -4199066652376804479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1608
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8db24374bdfb8890800000000000000
+      internalID: -7454585806712029810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_3
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1608
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46886bf60b6112480800000000000000
+      internalID: -8925828039427323804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_4
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1608
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89afcb1f0b8efe100800000000000000
+      internalID: 139585960139356824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_5
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1608
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a1ac185180130f0800000000000000
+      internalID: -1139120342283183471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_6
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1608
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226f5156174c3b660800000000000000
+      internalID: 7400474604006143522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1206
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1402dfc2f0ed6fd00800000000000000
+      internalID: 1006235723524546625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1206
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb2c5dc772408fb0800000000000000
+      internalID: -4647641733132440644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1206
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e410a59b8f6a8260800000000000000
+      internalID: 7100610407804441826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_10
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1206
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74106dcebada93d0800000000000000
+      internalID: -3199004072269048709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_11
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1206
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d95200e4fe3ec6a0800000000000000
+      internalID: -6427130396759926314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_12
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1206
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cfc00b2ccae6ed0800000000000000
+      internalID: -2418805997674103664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_13
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1206
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7790d68b75a061c10800000000000000
+      internalID: 2023816454422202743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b92cd067ff934480800000000000000
+      internalID: -8916106952432670284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_15
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 804
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d62cc3b0be001a0800000000000000
+      internalID: -6845213000106611423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_16
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 804
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c214998e6a8ae260800000000000000
+      internalID: 7127661567626449608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_17
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 804
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4848c2e3ad8538d60800000000000000
+      internalID: 7891248666452460676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_18
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 804
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea58c534471490c0800000000000000
+      internalID: -4570002140146672923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_19
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 804
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850a6d319150d1050800000000000000
+      internalID: 5772775902623998040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_20
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 804
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d421b5ec0172540800000000000000
+      internalID: 4982969991185976622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd610a9cd499bb80800000000000000
+      internalID: -8378501956548596296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 402
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ca26be1badb4320800000000000000
+      internalID: 2543366872273955982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_23
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 402
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65631e855bde073a0800000000000000
+      internalID: -6669569684999686570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_24
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 402
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18064e8a9007cef0800000000000000
+      internalID: -88101003898517476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_25
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 402
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04fb4ca0295faa00800000000000000
+      internalID: 769932058168128522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_26
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 402
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c37d8905a579d530800000000000000
+      internalID: 3880261905646711753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_27
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 402
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697a55046400cb3c0800000000000000
+      internalID: -4342595638964934762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230ba0d69f6232eb0800000000000000
+      internalID: -4745906729600241614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_29
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf77b397ae1c2040800000000000000
+      internalID: 4624104622489305039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_30
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1723dceec4754bf0800000000000000
+      internalID: -340737764711258341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_31
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 0
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59878400029ca8890800000000000000
+      internalID: -7454925093877548907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_32
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 0
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3567a81433f3e30800000000000000
+      internalID: 4485360110473204693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_33
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 0
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515c0057b23d6ba90800000000000000
+      internalID: -7298413962507270891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCast_34
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 0
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5315214, y: 0.01502619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a30905dc5847830800000000000000
+      internalID: 4068023480288819770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

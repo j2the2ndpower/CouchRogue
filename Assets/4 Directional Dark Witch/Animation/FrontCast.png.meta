@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: 332876ae9c553024ea94604b8698206b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 746489481579118870
+    second: FrontCast_0
+  - first:
+      213: -7913407104048642453
+    second: FrontCast_1
+  - first:
+      213: -9074358308033141607
+    second: FrontCast_2
+  - first:
+      213: 5758667382538104704
+    second: FrontCast_3
+  - first:
+      213: -7473881505676702708
+    second: FrontCast_4
+  - first:
+      213: 8692987321764685688
+    second: FrontCast_5
+  - first:
+      213: -3427680990410722464
+    second: FrontCast_6
+  - first:
+      213: -8193208703657570815
+    second: FrontCast_7
+  - first:
+      213: -8656735106261798042
+    second: FrontCast_8
+  - first:
+      213: 1032770998421549763
+    second: FrontCast_9
+  - first:
+      213: 6968681722823534656
+    second: FrontCast_10
+  - first:
+      213: 5093454167630493134
+    second: FrontCast_11
+  - first:
+      213: -1428377861342947013
+    second: FrontCast_12
+  - first:
+      213: 1117527122518748145
+    second: FrontCast_13
+  - first:
+      213: 6055063685835678856
+    second: FrontCast_14
+  - first:
+      213: 4330554981737231579
+    second: FrontCast_15
+  - first:
+      213: -1470854519324705547
+    second: FrontCast_16
+  - first:
+      213: -1867021921611935323
+    second: FrontCast_17
+  - first:
+      213: 1354939232995779315
+    second: FrontCast_18
+  - first:
+      213: -5361629052666307147
+    second: FrontCast_19
+  - first:
+      213: -9113921405661034487
+    second: FrontCast_20
+  - first:
+      213: 9196977869835519366
+    second: FrontCast_21
+  - first:
+      213: 8564717714582400979
+    second: FrontCast_22
+  - first:
+      213: 2346123087763753399
+    second: FrontCast_23
+  - first:
+      213: -8008709322210525591
+    second: FrontCast_24
+  - first:
+      213: -6556084289507309308
+    second: FrontCast_25
+  - first:
+      213: -5161121581627192196
+    second: FrontCast_26
+  - first:
+      213: 1611989192734863090
+    second: FrontCast_27
+  - first:
+      213: 3010423536241099563
+    second: FrontCast_28
+  - first:
+      213: 3849857874514722965
+    second: FrontCast_29
+  - first:
+      213: -4925351233159783224
+    second: FrontCast_30
+  - first:
+      213: -8958034869754559868
+    second: FrontCast_31
+  - first:
+      213: -810960605591634829
+    second: FrontCast_32
+  - first:
+      213: -8815253039791814011
+    second: FrontCast_33
+  - first:
+      213: -6138303001465205261
+    second: FrontCast_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrontCast_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2244
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611c61a7a301c5a00800000000000000
+      internalID: 746489481579118870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2244
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66c0287a2eed2290800000000000000
+      internalID: -7913407104048642453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_2
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2244
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994e1156237611280800000000000000
+      internalID: -9074358308033141607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_3
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 2244
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fefc34975eaef40800000000000000
+      internalID: 5758667382538104704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_4
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 2244
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c47c07e50774890800000000000000
+      internalID: -7473881505676702708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1870
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87722c669e1b3a870800000000000000
+      internalID: 8692987321764685688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1870
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063b533cc4e6e60d0800000000000000
+      internalID: -3427680990410722464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_7
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1870
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e0adfe710eb4e80800000000000000
+      internalID: -8193208703657570815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_8
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1870
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663bc9449491dd780800000000000000
+      internalID: -8656735106261798042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_9
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1870
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2fd3f40c3255e00800000000000000
+      internalID: 1032770998421549763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1496
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04867a1fa1bb5b060800000000000000
+      internalID: 6968681722823534656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1496
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5395544959fa640800000000000000
+      internalID: 5093454167630493134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_12
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1496
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b391f9927e16d2ce0800000000000000
+      internalID: -1428377861342947013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_13
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1496
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb289c3ff0428f00800000000000000
+      internalID: 1117527122518748145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_14
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1496
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8846a965758e70450800000000000000
+      internalID: 6055063685835678856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1122
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4feb6cfc8391c30800000000000000
+      internalID: 4330554981737231579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1122
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc7f5b8b99769be0800000000000000
+      internalID: -1470854519324705547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_17
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1122
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1147644710716e0800000000000000
+      internalID: -1867021921611935323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_18
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1122
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f224fabd06bdc210800000000000000
+      internalID: 1354939232995779315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_19
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1122
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd1962a8caa795b0800000000000000
+      internalID: -5361629052666307147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908ceb8e4c8d48180800000000000000
+      internalID: -9113921405661034487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 748
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685ccaa15aa32af70800000000000000
+      internalID: 9196977869835519366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_22
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 748
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfed23326dfbd670800000000000000
+      internalID: 8564717714582400979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_23
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 748
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9408d948a1f8020800000000000000
+      internalID: 2346123087763753399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_24
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 748
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e384cad495bd090800000000000000
+      internalID: -8008709322210525591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409c566031c1405a0800000000000000
+      internalID: -6556084289507309308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_26
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 374
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c428c24430068b0800000000000000
+      internalID: -5161121581627192196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_27
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 374
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feeabe41afee5610800000000000000
+      internalID: 1611989192734863090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_28
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 374
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23402d914c27c920800000000000000
+      internalID: 3010423536241099563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_29
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 374
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590c036e6517d6530800000000000000
+      internalID: 3849857874514722965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc9a792623a5abb0800000000000000
+      internalID: -4925351233159783224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_31
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48287b66fbaaea380800000000000000
+      internalID: -8958034869754559868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_32
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cffd830a3eeb4f0800000000000000
+      internalID: -810960605591634829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_33
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 0
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ac606c01ee9a580800000000000000
+      internalID: -8815253039791814011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontCast_34
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 0
+        width: 323
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5028232, y: 0.008730312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdc3f931fd50daa0800000000000000
+      internalID: -6138303001465205261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

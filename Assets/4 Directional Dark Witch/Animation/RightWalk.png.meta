@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: 5d1123cb4e92d86409addb9f6dbc34d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2020904723212909379
+    second: RightWalk_0
+  - first:
+      213: 2440389333690349433
+    second: RightWalk_1
+  - first:
+      213: 4786362244969345315
+    second: RightWalk_2
+  - first:
+      213: 2011996988281715973
+    second: RightWalk_3
+  - first:
+      213: 8797193717746551268
+    second: RightWalk_4
+  - first:
+      213: 2234134409818693303
+    second: RightWalk_5
+  - first:
+      213: 357117156121563270
+    second: RightWalk_6
+  - first:
+      213: -5929268951828370439
+    second: RightWalk_7
+  - first:
+      213: -8915244000296963189
+    second: RightWalk_8
+  - first:
+      213: 6857408800430572470
+    second: RightWalk_9
+  - first:
+      213: 8596437374048034180
+    second: RightWalk_10
+  - first:
+      213: 4139942535399838159
+    second: RightWalk_11
+  - first:
+      213: 7380843428065028182
+    second: RightWalk_12
+  - first:
+      213: -6266337298030695806
+    second: RightWalk_13
+  - first:
+      213: 19472525393053007
+    second: RightWalk_14
+  - first:
+      213: 8466848176128343671
+    second: RightWalk_15
+  - first:
+      213: -8545452787108086844
+    second: RightWalk_16
+  - first:
+      213: 5491606245696379871
+    second: RightWalk_17
+  - first:
+      213: 7431369259308852560
+    second: RightWalk_18
+  - first:
+      213: 1072083832791134469
+    second: RightWalk_19
+  - first:
+      213: 3426558840457909763
+    second: RightWalk_20
+  - first:
+      213: -1320123340994036449
+    second: RightWalk_21
+  - first:
+      213: 4057000482259339840
+    second: RightWalk_22
+  - first:
+      213: -7299287007696972291
+    second: RightWalk_23
+  - first:
+      213: 8511185682900684758
+    second: RightWalk_24
+  - first:
+      213: -437046734424748271
+    second: RightWalk_25
+  - first:
+      213: 1548544161849937921
+    second: RightWalk_26
+  - first:
+      213: 8241493009298785791
+    second: RightWalk_27
+  - first:
+      213: 2703118009672648337
+    second: RightWalk_28
+  - first:
+      213: 8860536169791246462
+    second: RightWalk_29
+  - first:
+      213: -7109887510618033543
+    second: RightWalk_30
+  - first:
+      213: -1671114441648170025
+    second: RightWalk_31
+  - first:
+      213: 8652599164574828796
+    second: RightWalk_32
+  - first:
+      213: -2986989428437662472
+    second: RightWalk_33
+  - first:
+      213: 1515560785701868089
+    second: RightWalk_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RightWalk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1564
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db44cf78cdd44f3e0800000000000000
+      internalID: -2020904723212909379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1564
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977f3445b210ed120800000000000000
+      internalID: 2440389333690349433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_2
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1564
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3213db14a139c6240800000000000000
+      internalID: 4786362244969345315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_3
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1564
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dffafc99c0ceb10800000000000000
+      internalID: 2011996988281715973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_4
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1564
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9c496a319e51a70800000000000000
+      internalID: 8797193717746551268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_5
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1564
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be58b5a86d310f10800000000000000
+      internalID: 2234134409818693303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_6
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1564
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680d2d1592cb4f400800000000000000
+      internalID: 357117156121563270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1173
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb648c8d4107bda0800000000000000
+      internalID: -5929268951828370439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1173
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83fd5411d0b64480800000000000000
+      internalID: -8915244000296963189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1173
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b34d4dc8f86a2f50800000000000000
+      internalID: 6857408800430572470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_10
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1173
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d560eee3eac4770800000000000000
+      internalID: 8596437374048034180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_11
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1173
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc199053dc7047930800000000000000
+      internalID: 4139942535399838159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_12
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1173
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658a7901ef50e6660800000000000000
+      internalID: 7380843428065028182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_13
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1173
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a691c8d6f7909a0800000000000000
+      internalID: -6266337298030695806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 782
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45ceee982e254000800000000000000
+      internalID: 19472525393053007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 782
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e3b419e89408570800000000000000
+      internalID: 8466848176128343671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 782
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbfc8347f3786980800000000000000
+      internalID: -8545452787108086844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_17
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 782
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb9c01e8ca163c40800000000000000
+      internalID: 5491606245696379871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_18
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 782
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055acdfd7f6812760800000000000000
+      internalID: 7431369259308852560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_19
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 782
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50174f6d09ec0ee00800000000000000
+      internalID: 1072083832791134469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_20
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 782
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306d7775c159d8f20800000000000000
+      internalID: 3426558840457909763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d3950d0dafdade0800000000000000
+      internalID: -1320123340994036449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 391
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a08a6917c5d4830800000000000000
+      internalID: 4057000482259339840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_23
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 391
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df51998c329b3ba90800000000000000
+      internalID: -7299287007696972291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_24
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 391
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df8faec84ecd1670800000000000000
+      internalID: 8511185682900684758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_25
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 391
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f4e548f4c4fe9f0800000000000000
+      internalID: -437046734424748271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_26
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 391
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100121ee5b88d7510800000000000000
+      internalID: 1548544161849937921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_27
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 391
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff58e160a3aaf5270800000000000000
+      internalID: 8241493009298785791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196cf701287638520800000000000000
+      internalID: 2703118009672648337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_29
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7058e783b2f6fa70800000000000000
+      internalID: 8860536169791246462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_30
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97230a89afa945d90800000000000000
+      internalID: -7109887510618033543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_31
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db198ee4420fc8e0800000000000000
+      internalID: -1671114441648170025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_32
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf80354c815341870800000000000000
+      internalID: 8652599164574828796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_33
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4402ac0f41c86d0800000000000000
+      internalID: -2986989428437662472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk_34
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 0
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5801095, y: 0.03111669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932954b318a580510800000000000000
+      internalID: 1515560785701868089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

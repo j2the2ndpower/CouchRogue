@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: 94a944f9b16ff3c438ddafe856fa8984
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8897363230636611097
+    second: LeftCast_0
+  - first:
+      213: -6763714085302775194
+    second: LeftCast_1
+  - first:
+      213: 5177546600764153941
+    second: LeftCast_2
+  - first:
+      213: 8382096686984282826
+    second: LeftCast_3
+  - first:
+      213: 8806332099607838360
+    second: LeftCast_4
+  - first:
+      213: 696421321939186435
+    second: LeftCast_5
+  - first:
+      213: -4195161419708469300
+    second: LeftCast_6
+  - first:
+      213: -3619877211711391454
+    second: LeftCast_7
+  - first:
+      213: 4391243490656103566
+    second: LeftCast_8
+  - first:
+      213: 6490896449383376063
+    second: LeftCast_9
+  - first:
+      213: 1414466179555054407
+    second: LeftCast_10
+  - first:
+      213: -263106191441931530
+    second: LeftCast_11
+  - first:
+      213: 9221427257245429992
+    second: LeftCast_12
+  - first:
+      213: 7131987846206398086
+    second: LeftCast_13
+  - first:
+      213: -8412380473411718268
+    second: LeftCast_14
+  - first:
+      213: 2807006109688733369
+    second: LeftCast_15
+  - first:
+      213: 103775800819355315
+    second: LeftCast_16
+  - first:
+      213: 3948660188271545319
+    second: LeftCast_17
+  - first:
+      213: 6171243957072313778
+    second: LeftCast_18
+  - first:
+      213: -1416523019897883163
+    second: LeftCast_19
+  - first:
+      213: -1206785963778225569
+    second: LeftCast_20
+  - first:
+      213: -6581787012811947708
+    second: LeftCast_21
+  - first:
+      213: 7172389113119751484
+    second: LeftCast_22
+  - first:
+      213: -6880986187131458662
+    second: LeftCast_23
+  - first:
+      213: 8943000288438343136
+    second: LeftCast_24
+  - first:
+      213: 7423474599897232268
+    second: LeftCast_25
+  - first:
+      213: -8116950397710813293
+    second: LeftCast_26
+  - first:
+      213: 1902793701311841380
+    second: LeftCast_27
+  - first:
+      213: -691705074530856878
+    second: LeftCast_28
+  - first:
+      213: -2937594997340283691
+    second: LeftCast_29
+  - first:
+      213: -3746837186200299941
+    second: LeftCast_30
+  - first:
+      213: -5358017855996169191
+    second: LeftCast_31
+  - first:
+      213: 9175696548481786292
+    second: LeftCast_32
+  - first:
+      213: -6167645941104471507
+    second: LeftCast_33
+  - first:
+      213: -2512706330102519576
+    second: LeftCast_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LeftCast_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2424
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e968403847368480800000000000000
+      internalID: -8897363230636611097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2424
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662d83700e57222a0800000000000000
+      internalID: -6763714085302775194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_2
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2424
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550249a93375ad740800000000000000
+      internalID: 5177546600764153941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_3
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 2424
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac24dacc680335470800000000000000
+      internalID: 8382096686984282826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_4
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2424
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ebe3bf260663a70800000000000000
+      internalID: 8806332099607838360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2020
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3037134a08f2aa900800000000000000
+      internalID: 696421321939186435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2020
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf6ada6aeac7c5c0800000000000000
+      internalID: -4195161419708469300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_7
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2020
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2293969dadc93cdc0800000000000000
+      internalID: -3619877211711391454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_8
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 2020
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cadce50b4d0fc30800000000000000
+      internalID: 4391243490656103566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_9
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2020
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb427533eeb441a50800000000000000
+      internalID: 6490896449383376063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1616
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743de230f7131a310800000000000000
+      internalID: 1414466179555054407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1616
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2d5e81052495cf0800000000000000
+      internalID: -263106191441931530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_12
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1616
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0f736bb3719ff70800000000000000
+      internalID: 9221427257245429992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_13
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1616
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e1983c829e9f260800000000000000
+      internalID: 7131987846206398086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_14
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1616
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483bcd6b788314b80800000000000000
+      internalID: -8412380473411718268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be19524f2d74f620800000000000000
+      internalID: 2807006109688733369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_16
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1212
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be8e108a8fa07100800000000000000
+      internalID: 103775800819355315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_17
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1212
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb07a435857cc630800000000000000
+      internalID: 3948660188271545319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_18
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1212
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd329baea9a4a550800000000000000
+      internalID: 6171243957072313778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_19
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1212
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5b2d681df775ce0800000000000000
+      internalID: -1416523019897883163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a421d4f82a04fe0800000000000000
+      internalID: -1206785963778225569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 808
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441801a659bc8a4a0800000000000000
+      internalID: -6581787012811947708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_22
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 808
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3db16eb5e1798360800000000000000
+      internalID: 7172389113119751484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_23
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 808
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9be8a31583d180a0800000000000000
+      internalID: -6880986187131458662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_24
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 808
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5559a516beb1c70800000000000000
+      internalID: 8943000288438343136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83720e31da750760800000000000000
+      internalID: 7423474599897232268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_26
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 404
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3973bf46e9cca5f80800000000000000
+      internalID: -8116950397710813293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_27
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 404
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4640b873ac4186a10800000000000000
+      internalID: 1902793701311841380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_28
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 404
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250d04746e19666f0800000000000000
+      internalID: -691705074530856878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_29
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 404
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc5199f9e09b37d0800000000000000
+      internalID: -2937594997340283691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b569e454e6f800cc0800000000000000
+      internalID: -3746837186200299941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914f521e52f74a5b0800000000000000
+      internalID: -5358017855996169191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_32
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1e80b556f965f70800000000000000
+      internalID: 9175696548481786292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_33
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 0
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d229614b1be186aa0800000000000000
+      internalID: -6167645941104471507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftCast_34
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 0
+        width: 339
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4981817, y: 0.006913289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e82d59d7e2112dd0800000000000000
+      internalID: -2512706330102519576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

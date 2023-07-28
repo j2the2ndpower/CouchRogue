@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: 975e8531740e99845b1247040f4f015a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1363170369369323498
+    second: BackCast_0
+  - first:
+      213: -3895290553169754197
+    second: BackCast_1
+  - first:
+      213: -5751848662920960508
+    second: BackCast_2
+  - first:
+      213: -1740873330807531070
+    second: BackCast_3
+  - first:
+      213: -7229219082422937530
+    second: BackCast_4
+  - first:
+      213: -2673448846326973007
+    second: BackCast_5
+  - first:
+      213: -4642966421161477819
+    second: BackCast_6
+  - first:
+      213: -6412657694573007924
+    second: BackCast_7
+  - first:
+      213: 3018076039823885105
+    second: BackCast_8
+  - first:
+      213: 5963324128264720396
+    second: BackCast_9
+  - first:
+      213: 2521801282280474521
+    second: BackCast_10
+  - first:
+      213: 2314901070330174069
+    second: BackCast_11
+  - first:
+      213: 6382723632386414094
+    second: BackCast_12
+  - first:
+      213: 8041270697200617318
+    second: BackCast_13
+  - first:
+      213: -253290262548404327
+    second: BackCast_14
+  - first:
+      213: -6391220890639358847
+    second: BackCast_15
+  - first:
+      213: -529831145168367563
+    second: BackCast_16
+  - first:
+      213: -665548171102753049
+    second: BackCast_17
+  - first:
+      213: 7464767523927903506
+    second: BackCast_18
+  - first:
+      213: 3027846771734893426
+    second: BackCast_19
+  - first:
+      213: -2059543286832526731
+    second: BackCast_20
+  - first:
+      213: 4384330680147725684
+    second: BackCast_21
+  - first:
+      213: 7101966527322378533
+    second: BackCast_22
+  - first:
+      213: -6444591231639331756
+    second: BackCast_23
+  - first:
+      213: 1387284773807216270
+    second: BackCast_24
+  - first:
+      213: 3798507082707134677
+    second: BackCast_25
+  - first:
+      213: -8635630139161996201
+    second: BackCast_26
+  - first:
+      213: 5522176723421532854
+    second: BackCast_27
+  - first:
+      213: 4505029060563110667
+    second: BackCast_28
+  - first:
+      213: -4583978138515692058
+    second: BackCast_29
+  - first:
+      213: 5236284018698555021
+    second: BackCast_30
+  - first:
+      213: -7456315855794403487
+    second: BackCast_31
+  - first:
+      213: -2222549804363084045
+    second: BackCast_32
+  - first:
+      213: -705133380836855397
+    second: BackCast_33
+  - first:
+      213: -212230414925804652
+    second: BackCast_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BackCast_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7b8928a34fae210800000000000000
+      internalID: 1363170369369323498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1512
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7c16941e521f9c0800000000000000
+      internalID: -3895290553169754197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_2
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1512
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4066acc9d145d20b0800000000000000
+      internalID: -5751848662920960508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_3
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1512
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9144eddec27d7e0800000000000000
+      internalID: -1740873330807531070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_4
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1512
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64894bceb87acab90800000000000000
+      internalID: -7229219082422937530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_5
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1512
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdb085507006ead0800000000000000
+      internalID: -2673448846326973007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_6
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1512
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5497a92b3aed09fb0800000000000000
+      internalID: -4642966421161477819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1134
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbecc07dc9a107a0800000000000000
+      internalID: -6412657694573007924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1134
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13302d2fa2c52e920800000000000000
+      internalID: 3018076039823885105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_9
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1134
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c001cb913bbf1c250800000000000000
+      internalID: 5963324128264720396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_10
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1134
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997c378b7ec3ff220800000000000000
+      internalID: 2521801282280474521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_11
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1134
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a9333324e202020800000000000000
+      internalID: 2314901070330174069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_12
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1134
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0612e7935df39850800000000000000
+      internalID: 6382723632386414094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_13
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1134
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66786693815589f60800000000000000
+      internalID: 8041270697200617318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997acb329d12c7cf0800000000000000
+      internalID: -253290262548404327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 756
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184a26c4672dd47a0800000000000000
+      internalID: -6391220890639358847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_16
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 756
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5301d417169a5a8f0800000000000000
+      internalID: -529831145168367563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_17
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 756
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee6280f67f73c6f0800000000000000
+      internalID: -665548171102753049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_18
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 756
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d4892538e289760800000000000000
+      internalID: 7464767523927903506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_19
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 756
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273529fb892150a20800000000000000
+      internalID: 3027846771734893426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_20
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 756
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a8ec4ea480b63e0800000000000000
+      internalID: -2059543286832526731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d4d00468548dc30800000000000000
+      internalID: 4384330680147725684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_22
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 378
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521d3c3cde04f8260800000000000000
+      internalID: 7101966527322378533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_23
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 378
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c5a837b663096a0800000000000000
+      internalID: -6444591231639331756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_24
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 378
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e865611d620a04310800000000000000
+      internalID: 1387284773807216270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_25
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 378
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8609df01207b430800000000000000
+      internalID: 3798507082707134677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_26
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 378
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75497975424182880800000000000000
+      internalID: -8635630139161996201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_27
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 378
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b29872e876b2ac40800000000000000
+      internalID: 5522176723421532854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b0da9df04158e30800000000000000
+      internalID: 4505029060563110667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_29
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5ad938b207260c0800000000000000
+      internalID: -4583978138515692058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_30
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e059d62940ba840800000000000000
+      internalID: 5236284018698555021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_31
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 0
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16703420c38d58890800000000000000
+      internalID: -7456315855794403487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_32
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 0
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe035f7abae721e0800000000000000
+      internalID: -2222549804363084045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_33
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 0
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91f2f31decd636f0800000000000000
+      internalID: -705133380836855397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackCast_34
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 0
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5006136, y: 0.0134413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b40d3ef810e0df0800000000000000
+      internalID: -212230414925804652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

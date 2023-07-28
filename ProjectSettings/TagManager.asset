@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Fog
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2362378083
+    locked: 0
+  - name: Background2
+    uniqueID: 2107424185
+    locked: 0
+  - name: Player
+    uniqueID: 1662841291
+    locked: 0
+  - name: Foreground2
+    uniqueID: 1137106567
+    locked: 0
+  - name: MiniMap
+    uniqueID: 1751168357
+    locked: 0
+  - name: Fog of War
+    uniqueID: 4291900583
+    locked: 0
+  - name: Foreground
+    uniqueID: 803458617
+    locked: 0
